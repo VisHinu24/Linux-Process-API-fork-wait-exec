@@ -1,4 +1,6 @@
 # Linux-Process-API-fork-wait-exec-
+## Name : Vishinu H 
+## Reg.No :212223220124
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
